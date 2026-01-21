@@ -1,0 +1,11 @@
+C:\Users\thanh\source\repos\FinancialTransactionSystem\Transaction.Application\bin\Debug\Transaction.Application.dll
+C:\Users\thanh\source\repos\FinancialTransactionSystem\Transaction.Application\bin\Debug\Transaction.Application.pdb
+C:\Users\thanh\source\repos\FinancialTransactionSystem\Transaction.Application\bin\Debug\FinancialTransaction.Contracts.dll
+C:\Users\thanh\source\repos\FinancialTransactionSystem\Transaction.Application\bin\Debug\Transaction.Domain.dll
+C:\Users\thanh\source\repos\FinancialTransactionSystem\Transaction.Application\bin\Debug\FinancialTransaction.Contracts.pdb
+C:\Users\thanh\source\repos\FinancialTransactionSystem\Transaction.Application\bin\Debug\Transaction.Domain.pdb
+C:\Users\thanh\source\repos\FinancialTransactionSystem\Transaction.Application\obj\Debug\Transaction.Application.csproj.AssemblyReference.cache
+C:\Users\thanh\source\repos\FinancialTransactionSystem\Transaction.Application\obj\Debug\Transaction.Application.csproj.CoreCompileInputs.cache
+C:\Users\thanh\source\repos\FinancialTransactionSystem\Transaction.Application\obj\Debug\Transact.3B377CB9.Up2Date
+C:\Users\thanh\source\repos\FinancialTransactionSystem\Transaction.Application\obj\Debug\Transaction.Application.dll
+C:\Users\thanh\source\repos\FinancialTransactionSystem\Transaction.Application\obj\Debug\Transaction.Application.pdb

@@ -1,0 +1,6 @@
+C:\Users\thanh\source\repos\FinancialTransactionSystem\Transaction.Domain\bin\Debug\Transaction.Domain.dll
+C:\Users\thanh\source\repos\FinancialTransactionSystem\Transaction.Domain\bin\Debug\Transaction.Domain.pdb
+C:\Users\thanh\source\repos\FinancialTransactionSystem\Transaction.Domain\obj\Debug\Transaction.Domain.csproj.AssemblyReference.cache
+C:\Users\thanh\source\repos\FinancialTransactionSystem\Transaction.Domain\obj\Debug\Transaction.Domain.csproj.CoreCompileInputs.cache
+C:\Users\thanh\source\repos\FinancialTransactionSystem\Transaction.Domain\obj\Debug\Transaction.Domain.dll
+C:\Users\thanh\source\repos\FinancialTransactionSystem\Transaction.Domain\obj\Debug\Transaction.Domain.pdb

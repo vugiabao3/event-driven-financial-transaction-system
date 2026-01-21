@@ -1,0 +1,13 @@
+C:\Users\thanh\source\repos\FinancialTransactionSystem\Transaction.Infrastructure\bin\Debug\Transaction.Infrastructure.dll
+C:\Users\thanh\source\repos\FinancialTransactionSystem\Transaction.Infrastructure\bin\Debug\Transaction.Infrastructure.pdb
+C:\Users\thanh\source\repos\FinancialTransactionSystem\Transaction.Infrastructure\bin\Debug\FinancialTransaction.Contracts.dll
+C:\Users\thanh\source\repos\FinancialTransactionSystem\Transaction.Infrastructure\bin\Debug\Transaction.Application.dll
+C:\Users\thanh\source\repos\FinancialTransactionSystem\Transaction.Infrastructure\bin\Debug\Transaction.Domain.dll
+C:\Users\thanh\source\repos\FinancialTransactionSystem\Transaction.Infrastructure\bin\Debug\FinancialTransaction.Contracts.pdb
+C:\Users\thanh\source\repos\FinancialTransactionSystem\Transaction.Infrastructure\bin\Debug\Transaction.Application.pdb
+C:\Users\thanh\source\repos\FinancialTransactionSystem\Transaction.Infrastructure\bin\Debug\Transaction.Domain.pdb
+C:\Users\thanh\source\repos\FinancialTransactionSystem\Transaction.Infrastructure\obj\Debug\Transaction.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\thanh\source\repos\FinancialTransactionSystem\Transaction.Infrastructure\obj\Debug\Transaction.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\thanh\source\repos\FinancialTransactionSystem\Transaction.Infrastructure\obj\Debug\Transact.6DA9D43A.Up2Date
+C:\Users\thanh\source\repos\FinancialTransactionSystem\Transaction.Infrastructure\obj\Debug\Transaction.Infrastructure.dll
+C:\Users\thanh\source\repos\FinancialTransactionSystem\Transaction.Infrastructure\obj\Debug\Transaction.Infrastructure.pdb
