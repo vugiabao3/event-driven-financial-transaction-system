@@ -1,0 +1,125 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0": {
+      "FinancialTransaction.Contracts/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/FinancialTransaction.Contracts.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/FinancialTransaction.Contracts.dll": {}
+        }
+      },
+      "Ledger.Infrastructure/1.0.0": {
+        "type": "project",
+        "dependencies": {
+          "FinancialTransaction.Contracts": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Ledger.Infrastructure.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Ledger.Infrastructure.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FinancialTransaction.Contracts/1.0.0": {
+      "type": "project",
+      "path": "../FinancialTransaction.Contracts/FinancialTransaction.Contracts.csproj",
+      "msbuildProject": "../FinancialTransaction.Contracts/FinancialTransaction.Contracts.csproj"
+    },
+    "Ledger.Infrastructure/1.0.0": {
+      "type": "project",
+      "path": "../Ledger.Infrastructure/Ledger.Infrastructure.csproj",
+      "msbuildProject": "../Ledger.Infrastructure/Ledger.Infrastructure.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0": [
+      "FinancialTransaction.Contracts >= 1.0.0",
+      "Ledger.Infrastructure >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\thanh\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\thanh\\source\\repos\\FinancialTransactionSystem\\Ledger.API\\Ledger.API.csproj",
+      "projectName": "Ledger.API",
+      "projectPath": "C:\\Users\\thanh\\source\\repos\\FinancialTransactionSystem\\Ledger.API\\Ledger.API.csproj",
+      "packagesPath": "C:\\Users\\thanh\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\thanh\\source\\repos\\FinancialTransactionSystem\\Ledger.API\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\thanh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {
+            "C:\\Users\\thanh\\source\\repos\\FinancialTransactionSystem\\FinancialTransaction.Contracts\\FinancialTransaction.Contracts.csproj": {
+              "projectPath": "C:\\Users\\thanh\\source\\repos\\FinancialTransactionSystem\\FinancialTransaction.Contracts\\FinancialTransaction.Contracts.csproj"
+            },
+            "C:\\Users\\thanh\\source\\repos\\FinancialTransactionSystem\\Ledger.Infrastructure\\Ledger.Infrastructure.csproj": {
+              "projectPath": "C:\\Users\\thanh\\source\\repos\\FinancialTransactionSystem\\Ledger.Infrastructure\\Ledger.Infrastructure.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      },
+      "SdkAnalysisLevel": "9.0.300"
+    },
+    "frameworks": {
+      "net8.0": {
+        "targetAlias": "net8.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.AspNetCore.App": {
+            "privateAssets": "none"
+          },
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.308/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

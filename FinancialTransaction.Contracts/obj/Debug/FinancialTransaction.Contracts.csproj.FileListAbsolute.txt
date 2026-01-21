@@ -1,0 +1,6 @@
+C:\Users\thanh\source\repos\FinancialTransactionSystem\FinancialTransaction.Contracts\bin\Debug\FinancialTransaction.Contracts.dll
+C:\Users\thanh\source\repos\FinancialTransactionSystem\FinancialTransaction.Contracts\bin\Debug\FinancialTransaction.Contracts.pdb
+C:\Users\thanh\source\repos\FinancialTransactionSystem\FinancialTransaction.Contracts\obj\Debug\FinancialTransaction.Contracts.csproj.AssemblyReference.cache
+C:\Users\thanh\source\repos\FinancialTransactionSystem\FinancialTransaction.Contracts\obj\Debug\FinancialTransaction.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\thanh\source\repos\FinancialTransactionSystem\FinancialTransaction.Contracts\obj\Debug\FinancialTransaction.Contracts.dll
+C:\Users\thanh\source\repos\FinancialTransactionSystem\FinancialTransaction.Contracts\obj\Debug\FinancialTransaction.Contracts.pdb
